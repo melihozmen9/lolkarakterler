@@ -8,10 +8,17 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    @IBOutlet weak var karakterbir: UIImageView!
+    @IBOutlet weak var karakteriki: UIImageView!
+    @IBOutlet weak var karakteruc: UIImageView!
+    @IBOutlet weak var karakterdort: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        
+        
+        
     }
 
 

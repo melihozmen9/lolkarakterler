@@ -15,6 +15,7 @@
 		21E7E23928B41CAA004EA79D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21E7E23728B41CAA004EA79D /* LaunchScreen.storyboard */; };
 		21E7E24428B41CAA004EA79D /* lolkarakterlerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E7E24328B41CAA004EA79D /* lolkarakterlerTests.swift */; };
 		21E7E24F28B41CAA004EA79D /* lolkarakterlerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E7E24E28B41CAA004EA79D /* lolkarakterlerUITests.swift */; };
+		21E7E25D28B41D75004EA79D /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E7E25C28B41D75004EA79D /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		21E7E24A28B41CAA004EA79D /* lolkarakterlerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lolkarakterlerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		21E7E24E28B41CAA004EA79D /* lolkarakterlerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lolkarakterlerUITests.swift; sourceTree = "<group>"; };
 		21E7E25028B41CAA004EA79D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		21E7E25C28B41D75004EA79D /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				21E7E22C28B41CA9004EA79D /* AppDelegate.swift */,
 				21E7E22E28B41CA9004EA79D /* SceneDelegate.swift */,
 				21E7E23028B41CA9004EA79D /* ViewController.swift */,
+				21E7E25C28B41D75004EA79D /* ViewController2.swift */,
 				21E7E23228B41CA9004EA79D /* Main.storyboard */,
 				21E7E23528B41CAA004EA79D /* Assets.xcassets */,
 				21E7E23728B41CAA004EA79D /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				21E7E23128B41CA9004EA79D /* ViewController.swift in Sources */,
+				21E7E25D28B41D75004EA79D /* ViewController2.swift in Sources */,
 				21E7E22D28B41CA9004EA79D /* AppDelegate.swift in Sources */,
 				21E7E22F28B41CA9004EA79D /* SceneDelegate.swift in Sources */,
 			);
